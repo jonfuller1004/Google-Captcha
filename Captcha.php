@@ -95,12 +95,3 @@ endif;
       </form>
 
     </div>
-
-  </div>
-
-</div>
-
-
-<!-- End of Content -->
-
-<?php include_once("footer.php"); ?> ?>
